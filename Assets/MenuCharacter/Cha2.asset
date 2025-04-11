@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75a118333c7d39a4093a1f713b36859d, type: 3}
+  m_Name: Cha2
+  m_EditorClassIdentifier: 
+  menucharacterchoose: {fileID: 8692122771816603941, guid: 3ff2f9578a4c3df4ca80883657a6463e, type: 3}
+  image: {fileID: -2132663560, guid: b1c04671d9e6d1c4d902d995466062af, type: 3}
+  namecharacter: Pink Man
