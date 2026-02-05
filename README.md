@@ -8,5 +8,5 @@
 * [cite_start]**Level Design:** Utilized **Unity Tilemaps** to create structured and visually engaging environments efficiently[cite: 39].
 * [cite_start]**Enemy AI:** Implemented **Patrol Patterns** using C# scripts to challenge player navigation[cite: 39].
 
-## 💡 Key Learnings (IELTS Focus)
+## 💡 Key Learnings 
 During this project, I **demonstrated my proficiency** in handling 2D physics and **refined my skills** in implementing logic-based AI behavior.
